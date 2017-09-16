@@ -2,6 +2,7 @@
   An app built with React Native where you can play the game Rock, Paper, Scissors against a computer, over and over and over again 🎉. When deciding how to build the game I did a bit of research how others have approached the problem by downloading 3 apps from the App Store. Overall, I found those apps too complicated, in one of them I didn't even figure out how to play the game. Rock, paper, scissors is a game everyone knows, no need to complicate things :). Therefore, I decided to keep it as simple as possible. The app is a single screen application where pressing the rock/paper/scissors buttons triggers a game to be played.
 
 ## Improvements I'd like to do
+- [ ] Implement a smarter algorithm for chosing what the computer plays, i.e. have a smarter strategy than just being random.
 - [ ] Show a countdown once you have pressed rock/paper/scissors button
 - [ ] Show visually what the computer chose
 - [ ] Allow player to enter his/her name
