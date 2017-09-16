@@ -82,6 +82,10 @@ export default class App extends React.Component {
  * @type {Array}
  */
 const choices = ['Rock', 'Paper', 'Scissors'];
+/**
+ * The usernames for the players in the game
+ * @type {Array}
+ */
 const players = ['Computer', 'Player'];
 
 const styles = {
